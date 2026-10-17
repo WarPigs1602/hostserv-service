@@ -1,0 +1,17 @@
+[
+{"name":"host","value":"127.0.0.1"},
+{"name":"port","value":"4400"},
+{"name":"password","value":"password"},
+{"name":"servername","value":"hostserv.midiandmore.net"},
+{"name":"description","value":"Host service"},
+{"name":"numeric","value":"SH"},
+{"name":"identd","value":"hostserv"},
+{"name":"nick","value":"H"},
+{"name":"account","value":"H"},
+{"name":"dbhost","value":""},
+{"name":"db","value":""},
+{"name":"dbuser","value":""},
+{"name":"dbpassword","value":""},
+{"name":"dbssl","value":"false"},
+{"name":"reg_host","value":".users.midiandmore.net"}
+]

@@ -1,0 +1,5 @@
+target/
+*.daemon.pid
+*.daemon.pid.lock
+daemon.log
+error.log*
